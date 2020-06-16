@@ -1,4 +1,4 @@
-![eKlient Logo](logo.png)
+<img src="logo.png" alt="eKlient logo" width="50%">
 
 # Välkommen till eKlients GitHub sidor
 
@@ -37,5 +37,5 @@ För övriga kontaktuppgifter se [Inera.se/eKlient](https://inera.se/eKlient)
 
 ***
 <img src="Inera.png" alt="Inera logo" width="10%">  
-######eKlient är en av många tjänster som tillhandahålls av Inera. För mer information se [Inera.se](https://inera.se)
+eKlient är en av många tjänster som tillhandahålls av Inera. För mer information se [Inera.se](https://inera.se)
 
