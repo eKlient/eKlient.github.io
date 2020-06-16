@@ -1,4 +1,4 @@
-![eKlient Logo](logo.png  | width=100)
+![eKlient Logo](logo.png) {:height="50%" width="50%"}
 
 ## Välkommen till eKlients GitHub sidor
 
