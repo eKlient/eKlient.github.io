@@ -4,6 +4,9 @@
 
 Dessa sidor fungerar som ett komplement till våra officiella sidor som nås på https://inera.se/eklient
 
+https://inera.se/eKlient - automatic!
+[Inera.se/eKlient](https://inera.se/eKlient)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
