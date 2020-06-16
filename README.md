@@ -1,4 +1,4 @@
-<img src="logo.png" alt="eKlient logo" width="50%">
+<img src="logo.png" alt="eKlient logo" width="70%">
 
 # Välkommen till eKlients GitHub sidor
 
