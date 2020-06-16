@@ -2,10 +2,7 @@
 
 ## Välkommen till eKlients GitHub sidor
 
-Dessa sidor fungerar som ett komplement till våra officiella sidor som nås på https://inera.se/eklient
-
-https://inera.se/eKlient - automatic!
-[Inera.se/eKlient](https://inera.se/eKlient)
+Dessa sidor fungerar som ett komplement till våra officiella sidor som nås på [Inera.se/eKlient](https://inera.se/eKlient)
 
 ### Markdown
 
