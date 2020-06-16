@@ -13,7 +13,7 @@ Nedan finns de publika dokument som producerats av eKlient för nedladdning
 # Stödjande
 I dokument Kravbibliotek kan du läsa om de krav som gäller för att system, applikationer eller andra it-komponenter ska kunna använda E-klient som plattform.
 * [E-klient - Kravbibliotek (Dokument)](/docs/eklient_kravbibliotek.pdf)
-\*Gäller från 2020-03-16*
+\\*Gäller från 2020-03-16*
 
 # Standarder
 Gemensamma standarder ger vägledning och rekommendationer för konfiguration med hög tillgänglighet, användarvänlighet och it-säkerhet.
