@@ -37,4 +37,4 @@ För övriga kontaktuppgifter se [Inera.se/eKlient](https://inera.se/eKlient)
 
 ***
 ###### eKlient är en av många tjänster som tillhandahålls av Inera. För mer information se [Inera.se](https://inera.se)  
-<img src="Inera.png" alt="Inera logo" width="20%">
+<img src="Inera.png" alt="Inera logo" width="10%">
