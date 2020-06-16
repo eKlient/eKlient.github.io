@@ -4,30 +4,18 @@
 
 Dessa sidor fungerar som ett komplement till våra officiella sidor som nås på [Inera.se/eKlient](https://inera.se/eKlient)
 
-### Markdown
+### Dokument
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nedan finns de publika dokument som producerats av eKlient för nedladdning
 
-```markdown
-Syntax highlighted code block
+# Stödjande
 
-# Header 1
-## Header 2
-### Header 3
+# Standarder
 
-- Bulleted
-- List
+# Regelverk och policys
 
-1. Numbered
-2. List
+# Presentationer
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Kontakta oss för mer information
+För övriga kontaktuppgifter se [Inera.se/eKlient](https://inera.se/eKlient
