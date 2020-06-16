@@ -18,9 +18,11 @@ Gemensamma standarder ger vägledning och rekommendationer för konfiguration me
 * [E-klient standard Mobila enheter och applikationer (Pdf))](/docs/e-klient_standard_mobila_enheter_och_appar.pdf)
 
 # Regelverk och policys
+* [Paketeringspolicy E-klient (Pdf)](/docs/paketeringspolicy_eklient.pdf)
 
 # Presentationer
-
+* [Vad är E-klient? (Pdf)](/docs/vad_ar_e-klient_svenska.pdf)
+* [What is E-klient? (Pdf)](/docs/what_is_e-klient_english.pdf)
 
 ### Kontakta oss för mer information
 För övriga kontaktuppgifter se [Inera.se/eKlient](https://inera.se/eKlient)
