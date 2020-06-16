@@ -1,3 +1,5 @@
+![eKlient Logo](logo.png)
+
 ## Välkommen till eKlients GitHub sidor
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum elementum sodales. Nam efficitur, nibh in auctor egestas, quam lectus sagittis nisi, eget aliquam risus dolor laoreet arcu. Quisque gravida, lacus a imperdiet tincidunt, nisl justo gravida massa, id maximus mauris metus vel risus. Nulla vel pretium libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis scelerisque enim justo, et auctor lacus consequat nec. In hac habitasse platea dictumst. Sed iaculis dictum arcu at suscipit. Aenean sollicitudin congue ante et sagittis. Nulla suscipit ac erat tristique dictum. Sed mollis libero et arcu suscipit vestibulum. Vivamus placerat nulla at ante ornare volutpat.
