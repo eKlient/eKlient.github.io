@@ -18,4 +18,4 @@ Nedan finns de publika dokument som producerats av eKlient för nedladdning
 
 
 ### Kontakta oss för mer information
-För övriga kontaktuppgifter se [Inera.se/eKlient](https://inera.se/eKlient
+För övriga kontaktuppgifter se [Inera.se/eKlient](https://inera.se/eKlient)
