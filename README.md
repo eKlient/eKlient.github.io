@@ -2,7 +2,7 @@
 
 # Välkommen till eKlients publika sidor
 
-eKlient är ett koncept som bygger på ett samarbete mellan regioner och kommuner och andra offentliga verksamheter inom Sverige. Syftet är att tillsammans ta fram gemensamma riktlinjer, samt att utveckla verktyg och tekniska lösningar för att få en så effektiv, säker och automatisk hantering av den digitala arbetsplatsen som möjligt.
+eKlient är en tjänst från Inera som bygger på ett samarbete mellan regioner och kommuner och andra offentliga verksamheter inom Sverige. Syftet är att tillsammans ta fram gemensamma riktlinjer, samt att utveckla verktyg och tekniska lösningar för att få en så effektiv, säker och automatisk hantering av den digitala arbetsplatsen som möjligt.
 
 Dessa sidor fungerar som ett komplement till våra officiella sidor som nås på [Inera.se/eKlient](https://inera.se/eKlient)
 
