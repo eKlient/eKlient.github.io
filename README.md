@@ -35,5 +35,6 @@ Gemensamma standarder ger vägledning och rekommendationer för konfiguration me
 ### Kontakta oss för mer information
 För övriga kontaktuppgifter se [Inera.se/eKlient](https://inera.se/eKlient)
 
-eKlient är en av de tjänster som tillhandahålla från Inera. För mer information se [Inera.se](https://inera.se)  
+***
+###### eKlient är en av många tjänster som tillhandahålls av Inera. För mer information se [Inera.se](https://inera.se)  
 <img src="Inera.png" alt="Inera logo" width="20%">
