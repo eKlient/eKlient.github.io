@@ -17,15 +17,20 @@ I dokument Kravbibliotek kan du läsa om de krav som gäller för att system, ap
 
 # Standarder
 Gemensamma standarder ger vägledning och rekommendationer för konfiguration med hög tillgänglighet, användarvänlighet och it-säkerhet.
-* [E-klient - Hantering av klienter med mjukvara som gått End-Of-Life (Pdf)](/docs/eklient_hantering_av_klienter_med_mjukvara_som_gatt_end_of_life.pdf)
-* [E-klient standard Mobila enheter och applikationer (Pdf))](/docs/e-klient_standard_mobila_enheter_och_appar.pdf)
+* [E-klient - Hantering av klienter med mjukvara som gått End-Of-Life (Pdf)](/docs/eklient_hantering_av_klienter_med_mjukvara_som_gatt_end_of_life.pdf)  
+*Gäller från 2019-02-06*
+* [E-klient standard Mobila enheter och applikationer (Pdf))](/docs/e-klient_standard_mobila_enheter_och_appar.pdf)  
+*Gäller från 2017-10-04*
 
 # Regelverk och policys
-* [Paketeringspolicy E-klient (Pdf)](/docs/paketeringspolicy_eklient.pdf)
+* [Paketeringspolicy E-klient (Pdf)](/docs/paketeringspolicy_eklient.pdf)  
+*Gäller från 2020-05-05*
 
 # Presentationer
-* [Vad är E-klient? (Pdf)](/docs/vad_ar_e-klient_svenska.pdf)
-* [What is E-klient? (Pdf)](/docs/what_is_e-klient_english.pdf)
+* [Vad är E-klient? (Pdf)](/docs/vad_ar_e-klient_svenska.pdf)  
+*Gäller från 2019-12-06*
+* [What is E-klient? (Pdf)](/docs/what_is_e-klient_english.pdf)  
+*Gäller från 2019-12-06*
 
 ### Kontakta oss för mer information
 För övriga kontaktuppgifter se [Inera.se/eKlient](https://inera.se/eKlient)
