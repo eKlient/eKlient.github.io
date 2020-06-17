@@ -16,9 +16,10 @@ I dokument Kravbibliotek kan du läsa om de krav som gäller för att system, ap
 *Gäller från 2020-03-16*
 
 ### Strategi
-* [eKlient Strategi v1.0 (Dokument)](/docs/eKlient strategi (v1.0).pdf)  
-* [eKlient - Strategi Bilaga 1, Målmatris (Dokument)](/docs/Bilaga 1 - eKlient målmatris (2020-06-15).pdf)  
-* [eKlient - Strategi Bilaga 2. Grundläggande förmågor (Dokument)](/docs/Bilaga 2 - eKlient grundläggande förmågor digital arbetsplats (v1.0).pdf)  
+Innefattar bland annat övergripande mål och styrande principer för att realisera visionen om ”en gemensam digital arbetsplats för offentliga sektorn som bidrar till ett hållbart digitaliserat Sverige”.  
+* [eKlient Strategi v1.0 (Pdf)](/docs/eKlient strategi (v1.0).pdf)  
+* [eKlient - Strategi Bilaga 1, Målmatris (Pdf)](/docs/Bilaga 1 - eKlient målmatris (2020-06-15).pdf)  
+* [eKlient - Strategi Bilaga 2. Grundläggande förmågor (Pdf)](/docs/Bilaga 2 - eKlient grundläggande förmågor digital arbetsplats (v1.0).pdf)  
 *Gäller från 2020-06-17*
 
 ### Standarder
