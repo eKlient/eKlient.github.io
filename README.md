@@ -15,7 +15,7 @@ I dokument Kravbibliotek kan du läsa om de krav som gäller för att system, ap
 * [eKlient - Kravbibliotek (Dokument)](/docs/eklient_kravbibliotek.pdf)  
 *Gäller från 2020-03-16*
 
-### Strategi
+### eKlient strategi - för att realisera visionen
 Innefattar bland annat övergripande mål och styrande principer för att realisera visionen om ”en gemensam digital arbetsplats för offentliga sektorn som bidrar till ett hållbart digitaliserat Sverige”.  
 * [eKlient Strategi v1.0 (Pdf)](/docs/eKlient strategi (v1.0).pdf)  
 * [eKlient - Strategi Bilaga 1, Målmatris (Pdf)](/docs/Bilaga 1 - eKlient målmatris (2020-06-15).pdf)  
