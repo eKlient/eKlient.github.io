@@ -4,5 +4,7 @@ eKlient är en tjänst från Inera som bygger på ett samarbete mellan regioner,
 
 Dessa sidor fungerar som ett komplement till våra officiella sidor som nås på [Inera.se/eKlient](https://inera.se/eKlient)
 
+## 2020-06-23, Dessa sidor är under uppbyggnad, vi ber om överseende för eventuella fel
+
 ### Kontakta oss för mer information
 För övriga kontaktuppgifter se [Inera.se/eKlient](https://inera.se/eKlient)
