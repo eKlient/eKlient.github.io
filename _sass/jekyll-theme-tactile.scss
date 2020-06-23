@@ -225,6 +225,11 @@ table {
   border: 1px solid #ebebeb;
 }
 
+table.noline {
+  width: 100%;
+  border: 0px solid #642323;
+}
+
 th {
   font-weight: 500;
 }
