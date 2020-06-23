@@ -1,7 +1,7 @@
 # Välkommen till eKlients publika sidor
   
 
-##### *2020-06-23<br />
+##### 2020-06-23<br />
 *Dessa sidor är under uppbyggnad, vi ber er ha överseende vid eventuella fel*
 <br /><br />
 
