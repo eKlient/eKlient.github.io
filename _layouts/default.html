@@ -22,19 +22,12 @@
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 		
-		<table border="0" cellspacing="0" cellpadding="0">
-		 <tr>
-			<td><img src="logo.png" width="100"></td>
-			<td>
-			
-				<table border="0" cellspacing="0" cellpadding="0">
-					<tr><td><h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1></td></tr>
-					<tr><td><h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2></td></tr>
-				</table>
-				
-			</td>
-		 </tr>
-		</table>
+<div>
+    <p style="float: left;"><img src="logo.png" width="100"></p>
+    <p><h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+	<h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2></p>
+</div>
+		
 	  <hr>
           <a href="index.html" class="button">Start</a>
 	  <a href="index.html" class="button">Dokument</a>
