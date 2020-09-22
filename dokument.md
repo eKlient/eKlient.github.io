@@ -7,7 +7,7 @@ Nedan finns de publika dokument som producerats av eKlient för nedladdning
 
 ### Stödjande
 I dokument Kravbibliotek kan du läsa om de krav som gäller för att system, applikationer eller andra it-komponenter ska kunna använda E-klient som plattform.
-* [eKlient - Kravbibliotek (Dokument)](/document/eklient_kravbibliotek.pdf)  
+* [eKlient - Kravbibliotek (Dokument)](/document/eKlient Kravbibliotek v1.2b.pdf)  
 *Gäller från 2020-03-16*
 
 ### eKlient strategi - för att realisera visionen
