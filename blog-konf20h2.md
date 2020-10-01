@@ -2,7 +2,7 @@
 
 Vi (eKlient) har just avslutat vår digitala konferens som varade i dagarna tre. Med representanter från mer än 40 olika organisationer som består av regioner, kommuner, universitet och andra offentliga verksamheter så arbetade vi mot våra gemensamma mål kring den digitala IT arbetsplatsen.
 
-Historiskt sätt har vi haft dessa sammankomster fysiskt men under den pågående pandemin så har vi valt att genomföra konferensen digitalt. Detta val har medfört både utmaningar och möjligheter. Möjligheterna är bland annat att fler får möjligheten att delta vilket är otroligt roligt. Utmaningarna  är det är svårt att lösa det sociala och nätverkandet runt en fysisk sammankomst.
+Historiskt sett har vi haft dessa sammankomster fysiskt men under den pågående pandemin så har vi valt att genomföra konferensen digitalt. Detta val har medfört både utmaningar och möjligheter. Möjligheterna är bland annat att fler får möjligheten att delta vilket är otroligt roligt. Utmaningarna  är det är svårt att lösa det sociala och nätverkandet runt en fysisk sammankomst.
 Vi har efter bästa förmåga försöker låta tekniken arbeta åt oss för att trots utmaningarna återskapa den miljö och stämning vi eftersträvar ni vi träffas personligen.
 
 Många av diskussionerna under konferensen har handlat om hur vi tar oss mot framtiden utan att riskera vår vardag. Som stöd och inspiration så har vi bjudit in talare från Microsoft, MSB och DIWO och temat har varit möjligheterna med digitalisering men även vilka risker som finns med att digitalisera utan att förstå vad konsekvenserna kan bli om något oönskat skulle inträffa.
