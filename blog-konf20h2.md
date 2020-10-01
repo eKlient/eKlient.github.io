@@ -13,7 +13,7 @@ Naturligtvis har vi även arbetat med att diskutera och prioritera de förändri
 
 För att inte glömma den sociala delen så bokade vi även en digital After Work där samtalen handlade om allt mellan musik och vad som händer på hemmaplan hos var och en. Det sociala är en viktig del i vårt arbete med att stärka banden mellan kollegorna så att man mer naturligt kan prata med varandra över organisationsgränserna.
 
-<center><img src="https://publik.eklient.it/blog/konf20H2-01.png" alt="" width="300px"></center>
+<center><img src="https://publik.eklient.it/blog/konf20H2-01.png" alt="" width="400px"></center>
 
 Jag och mina kollegor känner en otrolig ödmjukhet och tacksamhet för att så många vill vara med och samarbeta kring dessa frågor och aktivt arbeta med att effektivisera, förbättra och förenkla arbetet kring den digitala arbetsmiljön för de verksamheter vi har till uppdrag att stödja.
 
