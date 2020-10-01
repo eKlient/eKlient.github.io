@@ -22,4 +22,4 @@ I slutändan handlar allt om att säkerställa att vi använder de resurser som 
 /André Arvidsson, Tjänsteansvarig eKlient (med kollegor)
 
 ### Kontakta oss för mer information
-Vill man veta mer om eKlient så hittar man information här: [Inera.se/eKlient](https://inera.se/eKlient) alternativt [publik.eklient.it/](https://publik.eklient.it/).
+Vill man veta mer om eKlient så hittar man information på [Inera.se/eKlient](https://inera.se/eKlient) alternativt [publik.eklient.it/](https://publik.eklient.it/) för mer detaljerad information.
