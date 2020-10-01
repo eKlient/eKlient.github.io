@@ -17,4 +17,5 @@ I slutändan handlar allt om att säkerställa att vi använder de resurser som 
 
 <center><img src="https://publik.eklient.it/blog/konf20H2-01.png" alt="" width="300px"></center>
 
-Vill man veta mer om eKlient så hittar man information här: https://www.inera.se/eklient alternativt https://publik.eklient.it/.
+### Kontakta oss för mer information
+Vill man veta mer om eKlient så hittar man information här: [Inera.se/eKlient](https://inera.se/eKlient) alternativt [publik.eklient.it/](https://publik.eklient.it/).
