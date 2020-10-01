@@ -19,6 +19,7 @@ Jag och mina kollegor känner en otrolig ödmjukhet och tacksamhet för att så 
 
 I slutändan handlar allt om att säkerställa att vi använder de resurser som gemensamt står oss till buds på bästa möjliga sätt så att vi kan uppnå vår vision om ”En gemensam digital arbetsplats för offentliga sektorn som bidrar till ett hållbart digitaliserat Sverige”.
 
+/André Arvidsson, Tjänsteansvarig eKlient (med kollegor)
 
 ### Kontakta oss för mer information
 Vill man veta mer om eKlient så hittar man information här: [Inera.se/eKlient](https://inera.se/eKlient) alternativt [publik.eklient.it/](https://publik.eklient.it/).
