@@ -7,8 +7,7 @@ Många av diskussionerna under konferensen har handlat om hur vi tar oss mot fra
 Det är inte utan utmaningar att få till stånd bra diskussioner när alla deltagarna befinner sig på olika platser runt om i vårt avlånga land men tillsammans har vi tagit fram olika metoder och vi prövar olika verktyg för att få in synpunkter och tankar. Vissa metoder har fungerar bra och andra mindre bra. Det vi lär oss under resan är något vi naturligtvis av oss med till de organisationer som är en del av eKlient gemenskapen.
 Naturligtvis har vi även arbetat med att diskutera och prioritera de förändringsönskemål som har registrerats med målsättningen och har nu en bättre bild över vad vårt fokus ska vara rent operativt den närmsta tiden för att på bästa möjliga sätt stödja våra medlemmars arbete med IT-arbetsplatsen.
 Jag och mina kollegor känner en otrolig ödmjukhet och tacksamhet för att så många vill vara med och samarbeta kring dessa frågor och aktivt arbeta med att effektivisera, förbättra och förenkla arbetet kring den digitala arbetsmiljön för de verksamheter vi har till uppdrag att stödja. I slutändan handlar allt om att säkerställa att vi använder de resurser som gemensamt står oss till buds på bästa möjliga sätt så att vi kan uppnå vår vision om ”En gemensam digital arbetsplats för offentliga sektorn som bidrar till ett hållbart digitaliserat Sverige”.
+
+<center><img src="https://publik.eklient.it/blog/konf20H2-01.png" alt="" width="300px"><img src="https://publik.eklient.it/blog/konf20H2-02.png" alt="" width="300px"></center>
+
 Vill man veta mer om eKlient så hittar man information här: https://www.inera.se/eklient alternativt https://publik.eklient.it/.
-
-<center><img src="https://publik.eklient.it/blog/konf20H2-01.png" alt="" width="400px"></center>
-
-<center><img src="https://publik.eklient.it/blog/konf20H2-02.png" alt="" width="400px"></center>
