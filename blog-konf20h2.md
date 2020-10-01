@@ -5,7 +5,7 @@ Vi (eKlient) har just avslutat vår digitala konferens som varade i dagarna tre.
 Historiskt sett har vi haft dessa sammankomster fysiskt men under den pågående pandemin så har vi valt att genomföra konferensen digitalt. Detta val har medfört både utmaningar och möjligheter. Möjligheterna är bland annat att fler får möjligheten att delta vilket är otroligt roligt. Utmaningarna  är det är svårt att lösa det sociala och nätverkandet runt en fysisk sammankomst.
 Vi har efter bästa förmåga försöker låta tekniken arbeta åt oss för att trots utmaningarna återskapa den miljö och stämning vi eftersträvar ni vi träffas personligen.
 
-<center><img src="https://publik.eklient.it/blog/konf20H2-02.png" alt="" width="400px"></center>
+<center><img src="https://publik.eklient.it/blog/konf20H2-02.png" alt="" width="300px"></center>
 
 Många av diskussionerna under konferensen har handlat om hur vi tar oss mot framtiden utan att riskera vår vardag. Som stöd och inspiration så har vi bjudit in talare från Microsoft, MSB och DIWO och temat har varit möjligheterna med digitalisering men även vilka risker som finns med att digitalisera utan att förstå vad konsekvenserna kan bli om något oönskat skulle inträffa.
 
