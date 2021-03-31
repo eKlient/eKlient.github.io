@@ -8,7 +8,7 @@ Nedan finns de publika dokument som producerats av eKlient för nedladdning
 ### Stödjande
 I dokument Kravbibliotek kan du läsa om de krav som gäller för att system, applikationer eller andra it-komponenter ska kunna använda E-klient som plattform.
 * [eKlient - Kravbibliotek (Dokument)](/document/eKlient Kravbibliotek v1.3.pdf)  
-*Uppdaterat från 2021-03-30*
+*Uppdaterat från 2021-03-25*
 
 ### eKlient strategi - för att realisera visionen
 Innefattar bland annat övergripande mål och styrande principer för att realisera visionen om ”en gemensam digital arbetsplats för offentliga sektorn som bidrar till ett hållbart digitaliserat Sverige”.  
