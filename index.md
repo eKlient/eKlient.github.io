@@ -5,7 +5,7 @@ layout: default
 
 ##### 2021-03-30
 
-En uppdaterad version av eKlients kravbibliotek finns nu att hämnta under [Dokument](https://publik.eklient.it/dokument.html)
+En uppdaterad version av eKlients kravbibliotek finns nu att hämta under [Dokument](https://publik.eklient.it/dokument.html)
 
 ##### 2020-06-23
 
